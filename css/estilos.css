@@ -17,7 +17,19 @@ body
     margin:  0 auto;
 }
 
-#Container h1
+#cabecera #tagline
 {
-    font-size-adjust: 20px;
+    padding: 0 0 0 1cm;
+    font-weight: normal;
+    font-size: 0.0cm;
+}
+
+#Container
+{
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border:1px solid #ddd;
+    margin: 0cm;
+
 }
